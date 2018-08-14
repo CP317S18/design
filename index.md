@@ -119,6 +119,10 @@ This design shows how the user interacts with the front end of the app (GUI), an
 
 <iframe allowfullscreen frameborder="0" style="width:640px; height:480px" src="https://www.lucidchart.com/documents/embeddedchart/5fbcf4b6-55c7-4a11-ac40-b141330de8d4" id="X0cWvJwv3wnA"></iframe>
 
+### IOS
+
+<iframe allowfullscreen frameborder="0" style="width:640px; height:480px" src="https://www.lucidchart.com/documents/embeddedchart/5404b5ae-237e-41b7-97e6-4995f41d797a" id="6JO4w5DLh14g"></iframe>
+
 # 4. Interface Descriptions
 ## 4.1 Colour Guidelines 
 
