@@ -224,7 +224,7 @@ Betlow are Screenshots of each completed screens (Android left, iOS Right)
 
 ### 4.4.6 Report View 
 
-<img src="https://cp317s18.github.io/design/ReportID.png" align="left" hspace="20" />
+<img src="https://github.com/CP317S18/design/blob/master/screenshots%20of%20andriod/ReportImages.png" align="left" hspace="20" />
 
 | Identification | Purpose |
 | ----- | ---- |
@@ -239,7 +239,7 @@ Betlow are Screenshots of each completed screens (Android left, iOS Right)
 
 ### 4.4.7 About View 
 
-<img src="https://cp317s18.github.io/design/AboutID.png" align="left" hspace="20" />
+<img src="https://github.com/CP317S18/design/blob/master/screenshots%20of%20andriod/about.png" align="left" hspace="20" />
 
 
 | Identification | Purpose |
