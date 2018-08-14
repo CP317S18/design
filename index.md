@@ -158,7 +158,7 @@ Betlow are Screenshots of each completed screens (Android left, iOS Right)
 
 ### 4.4.2 Home View 
 
-<img src="https://github.com/CP317S18/design/blob/master/homeandroidios.png" align="left" hspace="20" />
+<img src="https://cp317s18.github.io/design/homeandroidios.png" align="left" hspace="20" />
 
 | Identification | Purpose |
 | ----- | ---- |
@@ -175,7 +175,7 @@ Betlow are Screenshots of each completed screens (Android left, iOS Right)
 |txtfieldUsername | Text Field | Required username input before entrance to Chat View This is how the user will be identified in the chat. Must be distinct and 15 characters in length| |
 
 ### 4.4.3 Chat View 
-<img src="https://github.com/CP317S18/design/blob/master/chat%20interfaceandroidios.png" align="left" hspace="20" />
+<img src="https://cp317s18.github.io/design/chat%20interfaceandroidios.png" align="left" hspace="20" />
 
 | Identification | Purpose |
 | ----- | ---- |
@@ -192,7 +192,7 @@ Betlow are Screenshots of each completed screens (Android left, iOS Right)
 
 ### 4.4.4 Settings View
 
-<img src="https://github.com/CP317S18/design/blob/master/settingsandroidios.png" align="left" hspace="20" />
+<img src="https://cp317s18.github.io/design/settingsandroidios.png" align="left" hspace="20" />
 
 | Identification | Purpose |
 | ----- | ---- |
@@ -208,7 +208,7 @@ Betlow are Screenshots of each completed screens (Android left, iOS Right)
 
 ### 4.4.5 Notification View 
 
-<img src="https://github.com/CP317S18/design/blob/master/notificationandroidios.png" align="left" hspace="20" />
+<img src="https://cp317s18.github.io/design/notificationandroidios.png" align="left" hspace="20" />
 
 | Identification | Purpose |
 | ----- | ---- |
@@ -224,7 +224,7 @@ Betlow are Screenshots of each completed screens (Android left, iOS Right)
 
 ### 4.4.6 Report View 
 
-<img src="https://github.com/CP317S18/design/blob/master/screenshots%20of%20andriod/ReportImages.png" align="left" hspace="20" />
+<img src="https://cp317s18.github.io/design/screenshots%20of%20andriod/ReportImages.png" align="left" hspace="20" />
 
 | Identification | Purpose |
 | ----- | ---- |
@@ -239,7 +239,7 @@ Betlow are Screenshots of each completed screens (Android left, iOS Right)
 
 ### 4.4.7 About View 
 
-<img src="https://github.com/CP317S18/design/blob/master/screenshots%20of%20andriod/about1.png" align="left" hspace="20" />
+<img src="https://cp317s18.github.io/design/screenshots%20of%20andriod/about1.png" align="left" hspace="20" />
 
 
 | Identification | Purpose |
