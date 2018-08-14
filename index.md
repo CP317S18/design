@@ -141,8 +141,8 @@ This design shows how the user interacts with the front end of the app (GUI), an
 
 ## 4.4 Module Interface 
 ### 4.4.1 Bluetooth View 
-
-<img src="https://cp317s18.github.io/design/BluetoothID.png" align="left" hspace="20" />
+iOS
+<img src="https://cp317s18.github.io/design/screenshots%20of%20ios/bluetooth.png" align="left" hspace="20" />
 
 | Identification | Purpose |
 | ----- | ---- |
