@@ -239,7 +239,7 @@ Betlow are Screenshots of each completed screens (Android left, iOS Right)
 
 ### 4.4.7 About View 
 
-<img src="https://cp317s18.github.io/design/screenshots%20of%20andriod/about1.png" align="left" hspace="20" />
+<img src="https://github.com/CP317S18/design/blob/master/screenshots%20of%20andriod/about1-2.png" align="left" hspace="20" />
 
 
 | Identification | Purpose |
