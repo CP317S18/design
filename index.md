@@ -140,9 +140,11 @@ This design shows how the user interacts with the front end of the app (GUI), an
 <img src="https://cp317s18.github.io/design/appIcon.PNG" align="left" hspace="150" />
 
 ## 4.4 Module Interface 
+Betlow are Screenshots of each completed screens (Android left, iOS Right)
 ### 4.4.1 Bluetooth View 
-iOS
-<img src="https://cp317s18.github.io/design/screenshots%20of%20ios/bluetooth.png" align="left" hspace="20" />
+
+<img src="https://github.com/CP317S18/design/blob/master/bluetoothandroidios.png" align="left" hspace="20" />
+
 
 | Identification | Purpose |
 | ----- | ---- |
@@ -156,7 +158,7 @@ iOS
 
 ### 4.4.2 Home View 
 
-<img src="https://cp317s18.github.io/design/HomeID.png" align="left" hspace="20" />
+<img src="https://github.com/CP317S18/design/blob/master/homeandroidios.png" align="left" hspace="20" />
 
 | Identification | Purpose |
 | ----- | ---- |
@@ -173,7 +175,7 @@ iOS
 |txtfieldUsername | Text Field | Required username input before entrance to Chat View This is how the user will be identified in the chat. Must be distinct and 15 characters in length| |
 
 ### 4.4.3 Chat View 
-<img src="https://cp317s18.github.io/design/ChatID.png" align="left" hspace="20" />
+<img src="https://github.com/CP317S18/design/blob/master/chat%20interfaceandroidios.png" align="left" hspace="20" />
 
 | Identification | Purpose |
 | ----- | ---- |
@@ -190,7 +192,7 @@ iOS
 
 ### 4.4.4 Settings View
 
-<img src="https://cp317s18.github.io/design/SettingID.png" align="left" hspace="20" />
+<img src="https://github.com/CP317S18/design/blob/master/settingsandroidios.png" align="left" hspace="20" />
 
 | Identification | Purpose |
 | ----- | ---- |
@@ -206,7 +208,7 @@ iOS
 
 ### 4.4.5 Notification View 
 
-<img src="https://cp317s18.github.io/design/NotificationID.png" align="left" hspace="20" />
+<img src="https://github.com/CP317S18/design/blob/master/notificationandroidios.png" align="left" hspace="20" />
 
 | Identification | Purpose |
 | ----- | ---- |
