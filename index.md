@@ -143,7 +143,7 @@ This design shows how the user interacts with the front end of the app (GUI), an
 Betlow are Screenshots of each completed screens (Android left, iOS Right)
 ### 4.4.1 Bluetooth View 
 
-<img src="https://github.com/CP317S18/design/blob/master/bluetoothandroidios.png" align="left" hspace="20" />
+<img src="https://cp317s18.github.io/design/bluetoothandroidios.png" align="left" hspace="20" />
 
 
 | Identification | Purpose |
